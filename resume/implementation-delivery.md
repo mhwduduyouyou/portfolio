@@ -29,4 +29,4 @@
 
 跨系统数据接入｜业务口径核实｜AI 协作开发（Codex）｜现场黑盒测试｜部署与反馈复测｜交付维护｜API / 浏览器自动化 / Excel导入
 
-> 本人负责项目实施组织、真实信息核实与结果验证；软件主要代码由 AI 协作实现。量化数据为2026-11-03历史快照。GitHub：github.com/mhwduduyouyou/portfolio（目前私有）。
+> 本人负责项目实施组织、真实信息核实与结果验证；软件主要代码由 AI 协作实现。量化数据为2026-11-03历史快照。GitHub：github.com/mhwduduyouyou/portfolio（公开作品集）。
