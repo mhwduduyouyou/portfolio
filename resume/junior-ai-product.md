@@ -30,4 +30,4 @@
 
 需求落实｜业务流程/数据口径｜AI协作快速原型｜现场验证｜测试反馈｜交付边界｜跨平台数据接入
 
-> 代码与技术方案主要由 AI 协作实现；不宣称独立手写全部源码。量化数据截至2026-11-03。GitHub：github.com/mhwduduyouyou/portfolio（目前私有）。
+> 代码与技术方案主要由 AI 协作实现；不宣称独立手写全部源码。量化数据截至2026-11-03。GitHub：github.com/mhwduduyouyou/portfolio（公开作品集）。
